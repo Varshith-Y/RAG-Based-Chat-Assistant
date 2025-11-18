@@ -3,7 +3,6 @@
 A Retrieval-Augmented Generation (RAG) chatbot that answers **science questions with explanations**, built using LangChain, modern LLMs, and a vector database (Chroma / Pinecone).
 
 The Streamlit app in `app.py` provides an interactive **Science QA assistant** that retrieves relevant context and walks through its reasoning before giving the final answer.
-
 ---
 
 ## Table of Contents
