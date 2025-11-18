@@ -1,4 +1,4 @@
-# RAG ScienceQA Chatbot
+# RAG-Based Chat Assistant
 
 A Retrieval-Augmented Generation (RAG) chatbot that answers **science questions with explanations**, built using LangChain, modern LLMs, and a vector database (Chroma / Pinecone).
 
